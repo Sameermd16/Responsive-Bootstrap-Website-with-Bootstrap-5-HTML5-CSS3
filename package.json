@@ -1,0 +1,23 @@
+{
+  "name": "responsive-website-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sameermd16/Responsive-Bootstrap-Website-with-Bootstrap-5-HTML5-CSS3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sameermd16/Responsive-Bootstrap-Website-with-Bootstrap-5-HTML5-CSS3/issues"
+  },
+  "homepage": "https://github.com/Sameermd16/Responsive-Bootstrap-Website-with-Bootstrap-5-HTML5-CSS3#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha3"
+  }
+}
